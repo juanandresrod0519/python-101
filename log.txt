@@ -1,5 +1,6 @@
 2021-03-06 initial set up
 2021-03-06 pull test
 1. Data Types Immutable: int, float, str, tup
-1.1 Data Types Mutable: list, dict, tup, set, bool.
+1.1 Data Types Mutable: list, dict, tup, set, bool
 2. lists
+2021-03-07 GitHun ok (Environement)  owo 

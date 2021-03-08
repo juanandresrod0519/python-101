@@ -64,6 +64,8 @@ def main():
     name = "Juan Andres"
     print(f'Hello {name}')
 
+    print("Hello python")
+
 
 
 
