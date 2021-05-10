@@ -169,5 +169,7 @@ def main():
     l = [[row[i] for row in matrix2] for i in range(2)]
     print(l)
 
+    print("Hello python")
+
 if __name__ == '__main__':
     main()
